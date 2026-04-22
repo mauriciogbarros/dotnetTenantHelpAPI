@@ -36,7 +36,7 @@ dotnetTenantHelpAPI
 ```
 
 ### ER Diagram
-```mermaid
+```erDiagram
 	USER {
 		int Id
 		string Name
